@@ -1,0 +1,9 @@
+.DS_Store
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.tar.gz
+
+.idea/
+*.dSYM/
