@@ -1,0 +1,11 @@
+1, 2, 3
+Testing copy ctor: 
+    1, 2, 3
+    1, 2, 3
+Testing move ctor: 
+    1, 2, 3
+Testing copy assignment: 
+    1, 2, 3
+    1, 2, 3
+Testing move assignment: 
+    1, 2, 3
